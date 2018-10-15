@@ -1,1 +1,7 @@
 .idea
+.gradle
+build
+
+viennathirstday.iml
+viennathirstday.ipr
+viennathirstday.iws
